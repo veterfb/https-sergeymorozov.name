@@ -1,2 +1,1 @@
-# sergeymorozov.name
-tes
+https://sergeymorozov.name
